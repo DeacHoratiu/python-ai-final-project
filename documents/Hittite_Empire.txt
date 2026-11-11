@@ -1,0 +1,37 @@
+THE HITTITE EMPIRE — A SHORT HISTORY
+Format: Plain text (UTF-8)
+Period: Approximately the 17th–12th centuries BCE
+Region: Central Anatolia and northern Syria
+
+1. INTRODUCTION
+The Hittites established one of the major states of the Bronze Age in Anatolia, in present-day Turkey. Their capital was Hattusa, near modern Boğazkale. The Hittite Empire existed alongside New Kingdom Egypt, the Mycenaean world, and several kingdoms of Syria and Mesopotamia. Although the label “Hittite” is conventional, the archives of Hattusa reveal a multilingual society shaped by Anatolian, Hurrian, and Mesopotamian traditions.
+
+2. ORIGINS AND THE FORMATION OF THE KINGDOM
+The formation of the Hittite kingdom is usually dated to the seventeenth century BCE. Important early rulers included Hattusili I and Mursili I. Mursili I's expedition against Babylon, traditionally dated to about 1595 BCE in the Middle Chronology, is a well-known event. Its precise date depends on the chronology adopted by historians. Royal authority later fluctuated amid dynastic disputes, revolts, and external pressures.
+
+3. HATTUSA AND ADMINISTRATION
+Hattusa was a political, religious, and archival center protected by monumental fortifications and gateways. Archaeologists discovered thousands of cuneiform tablets containing treaties, laws, rituals, diplomatic letters, and historical narratives. Hittite is the earliest Indo-European language attested in substantial written texts. The cuneiform script was adapted from a Mesopotamian tradition. The archives also contain Akkadian, which was an important language of international diplomacy.
+
+4. KINGSHIP, NOBILITY, AND LAW
+The Hittite king commanded armies, directed foreign policy, and performed important religious duties. Succession could lead to conflict; the Edict of Telipinu attempted to regulate dynastic succession. The kingdom included directly administered lands and vassal states whose rulers sometimes retained their thrones in exchange for loyalty. Treaties specified military, territorial, and diplomatic obligations. Hittite legal collections frequently provided compensation for offenses, but they should not be understood as a modern legal code enforced identically everywhere.
+
+5. ECONOMY AND SOCIETY
+Farming and animal husbandry formed the economic foundation. Communities cultivated grains, tended herds, and produced textiles and metalwork. The palace could mobilize people and resources for military or religious projects. Anatolia's location connected trade routes between the Aegean, the Levant, and Mesopotamia, although conflict and changing alliances affected those networks. The presence of iron objects does not mean Hittite armies relied exclusively on iron weapons: bronze remained extremely important.
+
+6. RELIGION AND CULTURE
+Hittite religion was polytheistic. Some texts speak of the “thousand gods of Hatti,” an expression emphasizing the diversity of local cults. The Storm God and the Sun Goddess of Arinna were prominent deities. Rituals, festivals, and royal oaths had both political and religious functions. Hurrian traditions strongly influenced Hittite culture, particularly during the imperial period. The archives preserve myths and prayers, offering a different perspective from the largely economic Linear B tablets of Mycenaean Greece.
+
+7. EMPIRE AND RIVALRY WITH EGYPT
+During the fourteenth century BCE, Suppiluliuma I expanded Hittite power and intervened in Syria. Competition over Syrian cities brought Hatti into rivalry with Egypt. At the Battle of Kadesh, around 1274 BCE, Ramesses II of Egypt confronted the forces of Hittite king Muwatalli II. The military outcome remains debated, and Egyptian inscriptions portray events in strongly propagandistic terms. Around 1259 BCE, Ramesses II and Hattusili III concluded a peace treaty preserved in Egyptian and Hittite versions. It provided for peaceful relations, mutual assistance, and rules concerning fugitives.
+
+8. RELATIONS WITH THE AEGEAN WORLD
+Hittite letters and treaties mention Ahhiyawa, a power that many researchers associate with the Mycenaean or Achaean world. Documents describe tensions in western Anatolia, including matters involving Wilusa, a name often associated with Troy or Ilios. These linguistic and geographical connections are historically significant, but they do not directly verify the Trojan War as narrated by Homer.
+
+9. CRISIS AND THE END OF THE EMPIRE
+Around 1200 BCE, Hittite imperial authority disintegrated. Hattusa was abandoned amid the wider transformations of the Late Bronze Age. Possible contributing factors include political tensions, environmental changes, supply problems, conflict, and the disruption of international trade. No single cause has been conclusively established. In northern Syria and southeastern Anatolia, states often called Neo-Hittite kingdoms continued certain Anatolian political and cultural traditions during the Iron Age.
+
+10. LEGACY AND KEY TERMS
+The Hittites are important to the histories of diplomacy, law, Indo-European languages, and Bronze Age international relations. Hattusa: the capital. Suppiluliuma I: an expansionist ruler of the fourteenth century BCE. Kadesh: a major Egyptian-Hittite battle. Ahhiyawa: a name in Hittite sources often linked to the Mycenaeans. Cuneiform: the writing system used in the archives. When using ancient records, distinguish described events, royal propaganda, and modern historical hypotheses.
+
+NOTE FOR RAG USE
+This UTF-8 file uses numbered section headings to facilitate chunking and retrieval. Dates are approximate where the historical chronology is uncertain. It can support questions about leaders, writing, religion, diplomacy, international contacts, and imperial collapse.

@@ -1,0 +1,6 @@
+.venv_backup
+.idea
+__pycache__
+*.pyc
+.env
+chroma/
