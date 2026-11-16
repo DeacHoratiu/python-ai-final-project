@@ -100,7 +100,7 @@ def main():
         if not file_path.is_file():
             continue
 
-        if file_path.suffix.lower() not in {".txt", ".pdf"}:
+        if file_path.suffix.lower() not in {".txt", ".pdf", ".md"}:
             continue
 
         index_file(collection,model,file_path)
@@ -110,3 +110,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+# uv run chroma run --path chroma_data --port 8000
